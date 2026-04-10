@@ -1,1 +1,3 @@
 # InventoryApp
+
+Updated project documentation
